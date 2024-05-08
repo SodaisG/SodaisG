@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="https://github.com/OwaisGhulam/OwaisGhulam/blob/main/banner.png" width="1000px" alt="owais ghulam - engineer">
+  <img src="https://github.com/SodaisG/SodaisG/blob/main/sodaisbanner.png" width="1000px" alt="sodais ghulam - engineer">
 </p>
 
 
 
 ## about me 📘
 
-<span style="color: #0366d6;">🎓</span> junior at the University of Texas with a b.s. in computer science and a minor in robotics.
+<span style="color: #0366d6;">🎓</span> junior at the university of texas with a b.s. in computer science and a minor in robotics.
 
 <span style="color: #0366d6;">👨‍💻</span> i love coding in python, c++, and java, and am currently exploring more about machine learning and its applications in financial markets.
 
