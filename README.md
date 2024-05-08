@@ -12,7 +12,7 @@
 
 ## professional experience 💼
 
-- **Cove, software engineering intern
+- Cove, software engineering intern
 
 ## software development stack 🔍
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)![Python](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=C%2B%2B&logoColor=white)![C++](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
