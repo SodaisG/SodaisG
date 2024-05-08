@@ -34,4 +34,4 @@ feel free to reach out via email at sodaisghulam@gmail.com or connect with me on
 <a href="https://www.instagram.com/sodaisnt/" target="blank"><img align="center" src="https://github.com/OwaisGhulam/OwaisGhulam/blob/main/Instagram_icon.png" alt="Instagram" height="80" width="80" /></a>
 </p>
 
-![snake gif](https://github.com/OwaisGhulam/OwaisGhulam/blob/output/github-contribution-grid-snake.gif)
+[comment]: <> (![snake gif](https://github.com/OwaisGhulam/OwaisGhulam/blob/output/github-contribution-grid-snake.gif))
