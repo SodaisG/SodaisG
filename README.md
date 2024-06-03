@@ -8,7 +8,7 @@
 <span style="color: #0366d6;">👨‍💻</span> i love coding in python, c++, and java, and am currently exploring more about machine learning and its applications in financial markets.
 
 ## professional experience 💼
-
+- Jump Finance, backend developer intern
 - Cove, software engineering intern
 
 ## software development stack 🔍
