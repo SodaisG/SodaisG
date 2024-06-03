@@ -1,6 +1,3 @@
-<p align="center">
-  <img src="https://github.com/SodaisG/SodaisG/blob/main/sodaisbanner.png" width="1000px" alt="sodais ghulam - engineer">
-</p>
 
 
 
